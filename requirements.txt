@@ -6,3 +6,4 @@ PyPDF2
 faiss-cpu
 bs4
 requests
+langchain_google_genai
